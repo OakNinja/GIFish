@@ -2,7 +2,7 @@
 GIFish - Create a gif from a video file in fish shell, with sane defaults for creating a gif suitable for the web, for example Github. Perfect to use in conjuction with the built in OSX Screen recorder `command+shift+5`
 
 ## Prerequisities
-* ffmpeg (OSX `brew install ffmepg`, other platforms, see: https://github.com/FFmpeg/FFmpeg)
+* ffmpeg (OSX `brew install ffmpeg`, other platforms, see: https://github.com/FFmpeg/FFmpeg)
 * gifsicle (OSX `brew install gifsicle`, other platforms, see: https://github.com/kohler/gifsicle)
 
 ## Install using fisher
