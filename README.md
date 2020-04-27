@@ -1,5 +1,5 @@
 # GIFish
-GIFish - Create a gif from a video file in fish shell, with sane defaults for creating a gif suitable for the web, for example Github. Perfect to use in conjuction with the built in OSX Screen recorder `command+shift+5`
+GIFish - Create a gif from a video file in fish shell, with sane defaults for creating a gif suitable for the web, for example Github. Perfect to use in conjunction with the built in OSX Screen recorder `command+shift+5`
 
 ## Prerequisities
 * ffmpeg (OSX `brew install ffmpeg`, other platforms, see: https://github.com/FFmpeg/FFmpeg)
